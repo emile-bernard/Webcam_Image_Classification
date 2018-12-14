@@ -4,7 +4,8 @@
 Image classification using over MobileNet. Allows you to get realtime predictions.
 
 ## Previews
-
+- ![Capture1](Webcam_Image_Classification/docs/preview/Capture1.PNG?raw=true "Capture1")
+- ![Capture2](Webcam_Image_Classification/docs/preview/Capture2.PNG?raw=true "Capture2")
 
 ## Built With
 - [p5.js](https://p5js.org/)
